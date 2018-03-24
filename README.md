@@ -10,3 +10,10 @@ ____ |    | |    | |    | |    | |    | ____
      |2   | |2   | |    | |10  | |5%  |
       ‾‾‾‾   ‾‾‾‾   ‾‾‾‾   ‾‾‾‾   ‾‾‾‾
 ```
+
+## Resources
+
+- [Resistor Color Code Calculator](http://www.resistorguide.com/resistor-color-code-calculator/)
+- [NPM: Resistor Packages](https://www.npmjs.com/search?q=resistor)
+- [NPM: Commander](https://www.npmjs.com/package/commander)
+- [NPM: Chalk](https://github.com/chalk/chalk)
