@@ -1,4 +1,8 @@
-# resist
+# Resist
+
+This utility takes colors of a resistor to calculate its resistance and tolerance.
+
+![Resist Screenshot](resist.png "Resist Screenshot")
 
 ## Usage
 
