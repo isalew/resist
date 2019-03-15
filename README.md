@@ -1,4 +1,4 @@
-# Resist
+# resist
 
 This utility takes colors of a resistor to calculate its resistance and tolerance.
 
